@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Function Pointers
+// Version 2
 
 void func() {
 	cout << "Inside func()" << endl;
