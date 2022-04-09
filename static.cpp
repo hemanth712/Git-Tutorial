@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Statics Version 3
+// Statics
 void fun() {
 	static int i = 0;
 	cout << "i = " << i << endl;

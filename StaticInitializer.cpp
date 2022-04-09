@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Version 3
+
 class HasStatic {
     static int x, y;
     public:
